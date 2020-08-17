@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">APS</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="customer_points">Customer Points :</string>
+    <string name="jhon_murphy">Jhon Murphy</string>
+    <string name="change_password">Change Password</string>
+    <string name="logout">Logout</string>
+    <string name="edit_your_account">Edit Your Account</string>
+    <string name="parking_history">Parking History</string>
+    <string name="todo">TODO</string>
+    <string name="make_your_own_parking">Make Your Own Parking</string>
+    <string name="profile">profile</string>
+    <string name="parking">Parking</string>
+    <string name="history">history</string>
+    <string name="lock">lock</string>
+    <string name="Logout">logout</string>
+    <string name="pro_pic">pro pic</string>
+    <string name="account">account</string>
+    <string name="vehicle">Vehicle</string>
+    <string name="delete">Delete</string>
+    <string name="rs_100_00">Rs 100.00</string>
+    <string name="time">Time</string>
+    <string name="parking_completed">Parking Completed</string>
+    <string name="location">Location</string>
+    <string name="date">Date</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+    <string name="new_password">New Password :</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="current_password">Current Password :</string>
+
+</resources>
