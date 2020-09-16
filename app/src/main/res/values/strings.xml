@@ -28,5 +28,30 @@
     <string name="new_password">New Password :</string>
     <string name="confirm_password">Confirm Password</string>
     <string name="current_password">Current Password :</string>
-
+    <string name="app_name_1">MAD_Project</string>
+    <string name="etName">Full Name</string>
+    <string name="etEmail">Email Address</string>
+    <string name="etMobile">Mobile Number</string>
+    <string name="etNic">NIC Number</string>
+    <string name="etAddress">Home Address</string>
+    <string name="etPassword">Password</string>
+    <string name="etPassword2">Confirm Password</string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="linkLogin">Already Registered? Login Here</string>
+    <string name="btnSignIn">Log In</string>
+    <string name="linkSignIn">New Here? Sign Up Here</string>
+    <string name="btnViewFB">See Your Feedback</string>
+    <string name="btnFB">Send Feedback</string>
+    <string name="FBMessage">Message</string>
+    <string name="FBEmail">Email Address</string>
+    <string name="FBName">Full Name</string>
+    <string name="et_source">Enter Your Location</string>
+    <string name="et_destination">Enter your Destination</string>
+    <string name="btnDisplay">Display Route</string>
+    <string name="topic">APS Parking App</string>
+    <string name="header">Create New Account</string>
+    <string name="header1">Welcome Back!</string>
+    <string name="header2">Feedback</string>
+    <string name="header3">Navigate Parking Lot</string>
+    <string name="btnlogout">LogOut</string>
 </resources>
